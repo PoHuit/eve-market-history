@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+# Copyright (c) 2018 Po Huit
+# [This program is licensed under the "MIT License"]
+# Please see the file LICENSE in the source
+# distribution of this software for license terms.
+
 
 # Measure skill injector, skill extractor and PLEX prices
 # on a regular basis.
